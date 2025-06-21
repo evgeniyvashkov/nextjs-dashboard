@@ -1,3 +1,5 @@
+// export const dynamic = 'force-dynamic'
+
 import SideNav from "@/app/ui/dashboard/sidenav";
 
 export default function Layout({ children }: React.PropsWithChildren) {
